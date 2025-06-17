@@ -109,9 +109,6 @@ Optimal units to produce for Product A and Product B
 Maximum profit achieved
 
 
-
----
-
 Sample Output:
 
 ----- Optimization Results -----
@@ -119,15 +116,6 @@ Status: Optimal
 Optimal units of Product A to produce: 20
 Optimal units of Product B to produce: 20
 Maximum profit (Rs.): 1000.0
-
-
----
-
-Deliverables:
-
-task4_complete_code.py – Python script containing the optimization logic
-
-README / documentation (this file)
 
 Conclusion:
 
